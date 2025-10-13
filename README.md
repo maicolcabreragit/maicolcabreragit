@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.canva.com/design/DAG1sR8vE3U/li5m4KhRtagcuYiwqzQQvQ/view?utm_content=DAG1sR8vE3U&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hdbc6c2e747" alt="Maicol Cabrera - Desarrollador Web y Estratega Digital para Pymes en España"/>
+  <img src="https://raw.githubusercontent.com/maicolcabreragit/maicolcabreragit/main/banner_maicolcabrera.png" alt="Maicol Cabrera - Desarrollador Web y Estratega Digital para Pymes en España"/>
 </p>
 
 <div align="center">
