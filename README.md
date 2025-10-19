@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maicolcabreragit/maicolcabreragit/main/banner_maicolcabrera.png" alt="Maicol Cabrera - Desarrollador Web y Estratega Digital para Pymes en España"/>
-</p>
-
 <div align="center">
   <h1><strong>Maicol Cabrera | Desarrollador Web & Estratega Digital</strong></h1>
   <h3>Tu socio tecnológico para crecer en el entorno digital.</h3>
